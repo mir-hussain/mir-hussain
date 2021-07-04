@@ -1,8 +1,4 @@
-### Hi there 👋, my name is Mir Hussain
-#### I am a Junior Front-end developer. 
-![I am a Junior Front-end developer. ](https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/banner.jpg)
-
-I like to work as a front-end developer because it gives me a lot of flexibility to make something new and experiment with new technologies. I love to work with React and Sass.
+![I am a Junior Front-end developer. ](https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/banner.gif)
 
 Skills: HTML / CSS / JavaScript / React / Sass 
 
