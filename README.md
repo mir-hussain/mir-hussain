@@ -15,7 +15,7 @@
 
 <p align="center">
 
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mir-hussain&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+  <img width="100%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mir-hussain&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
   
 </p>
 
