@@ -5,6 +5,7 @@
 
 [<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mirhussainmurtaza/) [<img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">](https://www.facebook.com/mirhussainmurtaza) [<img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white">](https://twitter.com/_mir_hussain_) [<img height="30" src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white">](https://www.reddit.com/user/MrMir6996) [<img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">](https://www.instagram.com/_mir_hussain_/) [<img height="30" src=" 	https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/mirhussain)
 
+## :eyes: Current overview
 
 - ### 🔭 I’m currently working on a web browser [extension.](https://addons.mozilla.org/en-US/firefox/addon/terminal-tab/). 
 - ### 🌱 I’m currently learning UI/UX designing. 
@@ -12,7 +13,7 @@
 - ### 🤔 I’m looking for help with fixing my coding addiction. 
 - ### ⚡ Fun fact: I love to make complex origami and I can speak 5 languages.
 
-## Skills 
+## :computer: Technologies that I know
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
@@ -31,6 +32,8 @@
 <img src=" https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 </p><br/>
 
+
+## :chart_with_upwards_trend: Current Stats
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mir-hussain&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
