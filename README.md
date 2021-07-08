@@ -24,6 +24,9 @@
 
 ## :book: My blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Common interview questions that you need to know as a junior JavaScript developer.](https://dev.to/mirhussain/common-interview-questions-that-you-need-to-know-as-a-junior-javascript-developer-29a6)
+- [What the heck is JSX in React.](https://dev.to/mirhussain/what-the-heck-is-jsx-in-react-3f0a)
+- [A cleaner approach to write JavaScript (Bonus tips in the end.)](https://dev.to/mirhussain/a-cleaner-approach-to-write-javascript-bonus-tips-in-the-end-58ng)
 <!-- BLOG-POST-LIST:END -->
 
 
