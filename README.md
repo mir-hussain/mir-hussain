@@ -5,8 +5,9 @@
 
 <br />
 
-
+<p align="center">
 [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/) [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza) [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png">](https://twitter.com/_mir_hussain_)
+</p>
 
 <br />
 
