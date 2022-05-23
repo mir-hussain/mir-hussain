@@ -1,10 +1,6 @@
 ![I am a Junior Front-end developer. ](https://github.com/mir-hussain/mir-hussain/blob/main/images/mygithubcover.png)
 
-<!-- ## :mailbox: Reach me out -->
-<h1 style="font-size: 72px;
-  background: -webkit-linear-gradient(#eee, #333);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;">Reach me out</h1>
+## :mailbox: Reach me out
 
 <br />
 
