@@ -10,11 +10,15 @@
 
 ## :eyes: Current overview
 
-- ### 🔭 I’m currently working on a web browser [extension](https://addons.mozilla.org/en-US/firefox/addon/terminal-tab/). 
-- ### 🌱 I’m currently learning UI/UX designing. 
-- ### 👯 I’m looking to collaborate on open source projects. 
-- ### 🤔 I’m looking for help with fixing my coding addiction. 
-- ### ⚡ Fun fact: I love to make complex origami and I can speak 5 languages.
+### 🔭 I’m working - In Programming Hero. 
+### 🌱 I’m exploring - Advance motion graphics for web. 
+### 👯 I’m looking - To collaborate on open source projects. 
+### 🤔 I’m trying - To help people learn web development. 
+### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+
+<p align="center">
+<a href="https://app.daily.dev/mir"><img src="https://api.daily.dev/devcards/e1dc331a8efd4639a486bb246edfb3c1.png?r=ent" width="400" alt="Mir Hussain's Dev Card"/></a>
+</p>
 
 ## :computer: Technologies that I know
 <br>
