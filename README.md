@@ -1,5 +1,7 @@
-![I am a Junior Front-end developer. ](https://github.com/mir-hussain/mir-hussain/blob/main/images/githubcover.png)
-
+<!-- ![I am a Junior Front-end developer. ](https://github.com/mir-hussain/mir-hussain/blob/main/images/githubcover.png) -->
+<a href="https://www.facebook.com/mirhussainmurtaza/">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/githubcover.png" />
+</a>
 
 ## :chart_with_upwards_trend: Current Stats
 
